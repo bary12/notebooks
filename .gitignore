@@ -1,0 +1,6 @@
+.vscode/
+*/books/*
+*.logs
+*.out
+*/logs/*
+*.json
